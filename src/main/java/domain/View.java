@@ -1,4 +1,5 @@
 package domain;
 
-public class Views {
+public class View {
+    private int count;
 }

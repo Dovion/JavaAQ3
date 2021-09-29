@@ -1,4 +1,6 @@
 package domain;
 
-public class Reposts {
+public class Repost {
+    private int count;
+    private int userReposted;
 }
